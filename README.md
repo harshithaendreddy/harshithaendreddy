@@ -55,6 +55,12 @@
 ### 🎮 Game Dev
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
 
 ## 🌟 Some of My Projects
 
@@ -88,13 +94,6 @@ An interactive Figma-based prototype designed to assist students and visitors in
 - 📍 Designed for seamless navigation inside the campus
 - 🔧 Tool: Figma
 - - [Prototype Link](https://www.figma.com/proto/H7tIYtaeoVEMhfuBV0CJiy/Campus-Navigation?page-id=0%3A1&node-id=3-2&starting-point-node-id=3%3A2&t=52A93ZX23zIXceuh-1)
-
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 
 ## 🏆 GitHub Stats & Streaks
