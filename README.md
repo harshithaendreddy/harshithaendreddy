@@ -64,6 +64,7 @@ This tool extracts YouTube transcripts, translates them, and converts them to au
 - 🌐 Translates to Telugu, Hindi, French, or Spanish
 - 🔊 Converts to audio and lets you download it
 - 🔧 Tech: Python, youtube-transcript-api, gTTS, Flask
+- [Watch Demo Video](https://drive.google.com/file/d/1hKvD49anfHj-JBhV9CPEJ_9KS9zx7QvM/view?usp=sharing)
 
 ### 🧩 Trello Board Generator
 Creates full Trello boards from a JSON config file using GitHub Actions.
@@ -79,12 +80,14 @@ A Flask-based document summarization app that extracts and summarizes text from 
 - ✅ Extracts text using PyPDF2 and python-docx
 - ✅ Summarizes content using NLTK or Google Gemini API
 - 🔧 Tech: Python, Flask, NLTK, PyPDF2, Gemini API
+- - [Watch Demo Video](https://drive.google.com/file/d/1ySmjzB-DFTdBam9QCQAmPW-Sy4R1pvPu/view?usp=sharing)
 
 ### 🗘️ KL Campus Navigator
 An interactive Figma-based prototype designed to assist students and visitors in navigating KL University’s campus with ease.
 - 🧭 Gives information about various important locations in the campus
 - 📍 Designed for seamless navigation inside the campus
-- 🔧 Tool: Figma 
+- 🔧 Tool: Figma
+- - [Prototype Link](https://www.figma.com/proto/H7tIYtaeoVEMhfuBV0CJiy/Campus-Navigation?page-id=0%3A1&node-id=3-2&starting-point-node-id=3%3A2&t=52A93ZX23zIXceuh-1)
 
 
 ### 🛠️ Tools & Platforms
