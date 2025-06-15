@@ -88,4 +88,4 @@
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshithared7jp3/)
 
 
-> 📌 *Open to internships and full-time roles in Software Engineering, Game Development, or AI/ML roles. Let's build something amazing together!*
+> 📌 *Open to internships and full-time roles in Software Engineering, Web Development, or AI/ML roles. Let's build something amazing together!*
