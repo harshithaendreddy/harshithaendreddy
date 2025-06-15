@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshithaendreddy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
 ## 🚀 About Me
 
 🎓 Final Year CSE Student | KL University  
@@ -14,10 +15,12 @@
 💡 Quick learner and strong team player with a problem-solving mindset  
 🎯 Goal: Contribute to real-world projects and land a high-impact software engineering role
 
+
 ## 🏆 Achievements
 - 🥇 1st place in **ARthon 8.0** for Escape Room
 - 🎓 **Shefi Season 13 Scholar**
 - ⭐ Six Star **Problem Solving** Badge on HackerRank
+
 
 ## 🛠️ Tech Stack
 
@@ -64,6 +67,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
+
 ## 🏆 GitHub Stats & Streaks
 
 <p align="center">
@@ -79,11 +83,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=harshithaendreddy" alt="GitHub Trophies"/>
 </p>
 
+
 ## 🏅 Certifications
 
 - ✅ Red Hat Certified Enterprise Application Developer (EX183)
 - ✅ Automation Anywhere RPA Essentials – 2023
 - ✅ ServiceNow Certified System Administrator
+
 
 ## 💬 Connect With Me
 
@@ -91,5 +97,6 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/klu_2200032479)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/klu_2200032479)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshithared7jp3/)
+
 
 > 📌 *Open to internships and full-time roles in Software Engineering, Game Development, or AI/ML roles. Let's build something amazing together!*
