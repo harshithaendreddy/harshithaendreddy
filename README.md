@@ -1,4 +1,4 @@
----
+
 <h1 align="center">Hi 👋, I'm Harshitha Endreddy</h1>
 <h3 align="center">👩‍💻 Full Stack Developer & UX Designer | RedHat + ServiceNow Certified | Building Accessible AI Tools</h3>
 
