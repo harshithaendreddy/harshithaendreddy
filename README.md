@@ -65,18 +65,12 @@
 ## 🏆 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshithaendreddy&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithaendreddy&theme=highcontrast&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshithaendreddy&show_icons=true&theme=highcontrast&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithaendreddy&hide=html&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithaendreddy&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshithaendreddy&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshithaendreddy&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithaendreddy&layout=compact&langs_count=10" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshithaendreddy" alt="GitHub Trophies"/>
-</p>
-
 
 ## 🏅 Certifications
 
