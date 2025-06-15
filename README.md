@@ -1,2 +1,9 @@
-![Profile Views](https://komarev.com/ghpvc/?username=harshitha-endreddy&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/harshitha-endreddy?label=Followers&style=social)
+## 📊 GitHub Stats
+
+![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha-endreddy&show_icons=true&theme=tokyonight&hide=contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-endreddy&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshitha-endreddy&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harshitha-endreddy&theme=tokyo-night)
