@@ -113,6 +113,7 @@ An interactive Figma-based prototype designed to assist students and visitors in
 - ✅ Red Hat Certified Enterprise Application Developer (EX183)
 - ✅ Automation Anywhere RPA Essentials – 2023
 - ✅ ServiceNow Certified System Administrator
+- ✅ GitHub Foundations Certification
 
 
 ## 💬 Connect With Me
