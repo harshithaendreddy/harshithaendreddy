@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=harshithaendreddy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
 ## 🚀 About Me
 
 🎓 Final Year CSE Student | KL University  
@@ -16,9 +14,18 @@
 💡 Quick learner and strong team player with a problem-solving mindset  
 🎯 Goal: Contribute to real-world projects and land a high-impact software engineering role
 
----
+## 🏆 Achievements
+- 🥇 1st place in **ARthon 8.0** for Escape Room
+- 🎓 **Shefi Season 13 Scholar**
+- ⭐ Six Star **Problem Solving** Badge on HackerRank
 
 ## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -28,13 +35,15 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
-### 🧱 Backend & Frameworks
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -46,15 +55,14 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
 
+### 🎮 Game Dev
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
-
----
-
 
 ## 🏆 GitHub Stats & Streaks
 
@@ -71,15 +79,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=harshithaendreddy" alt="GitHub Trophies"/>
 </p>
 
----
-
 ## 🏅 Certifications
 
 - ✅ Red Hat Certified Enterprise Application Developer (EX183)
 - ✅ Automation Anywhere RPA Essentials – 2023
 - ✅ ServiceNow Certified System Administrator
-
----
 
 ## 💬 Connect With Me
 
@@ -87,7 +91,5 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/klu_2200032479)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/klu_2200032479)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshithared7jp3/)
-
----
 
 > 📌 *Open to internships and full-time roles in Software Engineering, Game Development, or AI/ML roles. Let's build something amazing together!*
