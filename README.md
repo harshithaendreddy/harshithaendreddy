@@ -55,6 +55,38 @@
 ### 🎮 Game Dev
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
+
+## 🌟 Some of My Projects
+
+### 🧠 YouTube Transcript Translator
+This tool extracts YouTube transcripts, translates them, and converts them to audio!
+- 🔗 Accepts video link → extracts transcript
+- 🌐 Translates to Telugu, Hindi, French, or Spanish
+- 🔊 Converts to audio and lets you download it
+- 🔧 Tech: Python, youtube-transcript-api, gTTS, Flask
+
+### 🧩 Trello Board Generator
+Creates full Trello boards from a JSON config file using GitHub Actions.
+- 📦 JSON-defined board structure
+- 🤖 Automated setup via Python script & Trello API
+- 🔐 GitHub Secrets for API key handling
+- 🔧 Tech: Python, GitHub Actions, Trello API
+- [Watch Demo Video]([https://your-hosted-link.com](https://drive.google.com/file/d/1yKZL8ZsuJKjDptm32Bv_mCg1FJaDsOFU/view?usp=sharing)) 
+
+### 📄 Document Summarizer
+A Flask-based document summarization app that extracts and summarizes text from PDF, DOCX, and TXT files using NLTK and AI.
+- ✅ Upload PDF, DOCX, or TXT files
+- ✅ Extracts text using PyPDF2 and python-docx
+- ✅ Summarizes content using NLTK or Google Gemini API
+- 🔧 Tech: Python, Flask, NLTK, PyPDF2, Gemini API
+
+### 🗘️ KL Campus Navigator
+An interactive Figma-based prototype designed to assist students and visitors in navigating KL University’s campus with ease.
+- 🧭 Gives information about various important locations in the campus
+- 📍 Designed for seamless navigation inside the campus
+- 🔧 Tool: Figma 
+
+
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
