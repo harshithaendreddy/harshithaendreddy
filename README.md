@@ -1,3 +1,6 @@
+## Harshitha Endreddy  
+👩‍💻 Full Stack & Game Developer | RedHat + ServiceNow Certified | Building Accessible AI Tools
+
 ## 📊 GitHub Stats
 
 ![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithaendreddy&show_icons=true&theme=tokyonight&hide=contribs)
