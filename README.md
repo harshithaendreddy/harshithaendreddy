@@ -71,7 +71,7 @@ Creates full Trello boards from a JSON config file using GitHub Actions.
 - 🤖 Automated setup via Python script & Trello API
 - 🔐 GitHub Secrets for API key handling
 - 🔧 Tech: Python, GitHub Actions, Trello API
-- [Watch Demo Video]([https://your-hosted-link.com](https://drive.google.com/file/d/1yKZL8ZsuJKjDptm32Bv_mCg1FJaDsOFU/view?usp=sharing)) 
+- [Watch Demo Video](https://drive.google.com/file/d/1yKZL8ZsuJKjDptm32Bv_mCg1FJaDsOFU/view?usp=sharing)
 
 ### 📄 Document Summarizer
 A Flask-based document summarization app that extracts and summarizes text from PDF, DOCX, and TXT files using NLTK and AI.
