@@ -70,6 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithaendreddy&hide=html&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithaendreddy&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshithaendreddy&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshithaendreddy&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ## 🏅 Certifications
