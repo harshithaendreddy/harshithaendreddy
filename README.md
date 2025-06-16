@@ -17,7 +17,7 @@
 
 
 ## 🏆 Achievements
-- 🥇 1st place in **ARthon 8.0** for Escape Room
+- 🥇 1st place in **ARthon 8.0** for Escape Room Project
 - 🎓 **Shefi Season 13 Scholar**
 - ⭐ Six Star **Problem Solving** Badge on HackerRank
 
