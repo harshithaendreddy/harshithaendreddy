@@ -64,7 +64,7 @@
 
 ## 🌟 Some of My Projects
 
-### 🧠 YouTube Transcript Translator
+### 🧠 YouTube-AI-Content-Repurposing-Suite
 This tool extracts YouTube transcripts, translates them, and converts them to audio!
 - 🔗 Accepts video link → extracts transcript
 - 🌐 Translates to Telugu, Hindi, French, or Spanish
